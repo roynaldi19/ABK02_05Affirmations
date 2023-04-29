@@ -1,4 +1,4 @@
-package com.example.abk02_05affirmations
+package com.roynaldi19.abk2_03affirmations
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

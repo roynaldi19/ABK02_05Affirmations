@@ -1,11 +1,10 @@
-package com.example.abk02_05affirmations
+package com.roynaldi19.abk2_03affirmations
 
 import android.os.Bundle
-import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
-import com.example.abk02_05affirmations.adapter.ItemAdapter
-import com.example.abk02_05affirmations.data.Datasource
+import com.roynaldi19.abk2_03affirmations.adapter.ItemAdapter
+import com.roynaldi19.abk2_03affirmations.data.Datasource
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

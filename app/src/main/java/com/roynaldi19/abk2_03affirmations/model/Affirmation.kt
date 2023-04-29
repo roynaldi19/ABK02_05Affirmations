@@ -1,4 +1,4 @@
-package com.example.abk02_05affirmations.model
+package com.roynaldi19.abk2_03affirmations.model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
