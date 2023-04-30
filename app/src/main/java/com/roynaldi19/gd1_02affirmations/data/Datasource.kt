@@ -1,7 +1,7 @@
-package com.roynaldi19.abk2_03affirmations.data
+package com.roynaldi19.gd1_02affirmations.data
 
-import com.roynaldi19.abk2_03affirmations.R
-import com.roynaldi19.abk2_03affirmations.model.Affirmation
+import com.roynaldi19.gd1_02affirmations.R
+import com.roynaldi19.gd1_02affirmations.model.Affirmation
 
 class Datasource {
 

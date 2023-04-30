@@ -1,4 +1,4 @@
-package com.roynaldi19.abk2_03affirmations.model
+package com.roynaldi19.gd1_02affirmations.model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes

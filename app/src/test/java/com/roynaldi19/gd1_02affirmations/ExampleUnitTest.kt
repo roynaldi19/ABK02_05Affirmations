@@ -1,4 +1,4 @@
-package com.roynaldi19.abk2_03affirmations
+package com.roynaldi19.gd1_02affirmations
 
 import org.junit.Test
 
